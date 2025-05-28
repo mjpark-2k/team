@@ -98,4 +98,4 @@ git clone https://github.com/mjpark-2k/team.git
 
 ## 📞 연락처
 - 📧 Email: mjpark.2k@gmail.com
-- 📒 Github: [ Github ](https://github.com/mjpark-2k)
+- 📒 Github: [ mjpark-2k ](https://github.com/mjpark-2k)
