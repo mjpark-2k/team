@@ -1,7 +1,7 @@
 # 🐢 해양생물연구센터
 
 ## 🌱 프로젝트 링크  
-🔗 [ 해양생물연구센터 ](https://github.com/username/project-name)
+🔗 [ 해양생물연구센터 ](https://team-mj2k.vercel.app)
 
 ---
 ## 📄 프로젝트 설명
@@ -45,7 +45,6 @@ git clone https://github.com/mjpark-2k/team.git
 ```
 
 - 클론 후 브라우저에서 `index.html` 열기  
-- 또는 [🔗 데모 바로가기](https://github.com/mjpark-2k/team.git)
 
 ---
 
@@ -98,4 +97,4 @@ git clone https://github.com/mjpark-2k/team.git
 
 ## 📞 연락처
 - 📧 Email: mjpark.2k@gmail.com
-- 📒 Github: [ Github ](https://github.com/mjpark-2k)
+- 📒 Github: [ mjpark-2k ](https://github.com/mjpark-2k)
